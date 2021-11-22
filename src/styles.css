@@ -1,0 +1,43 @@
+.UploadPage {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.titulo {
+  color: #d93d1a;
+  font-weight: bold;
+  font-size: 125%;
+}
+
+.subtitulo {
+  color: #f2a30f;
+  font-weight: bold;
+}
+
+.insira {
+  font-weight: bold;
+}
+
+.box {
+  background-color: #f2f2f2;
+}
+
+.botao {
+  color: #f2f2f2;
+  font-weight: bold;
+  background-color: #d93d1a;
+}
+
+.criador {
+  color: #d93d1a;
+  font-weight: bold;
+}
+
+.ResultPage {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
